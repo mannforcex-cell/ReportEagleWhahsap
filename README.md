@@ -42,9 +42,8 @@ WhatsApp Report Generator adalah script yang membolehkan anda mengeksport perbua
 ### 📌 **Kaedah 1: Bash Script (Auto Install)**
 ```bash
 # Clone repository
-git clone https://github.com/cyberforce/whatsapp-report.git
-cd whatsapp-report
+git clone https://github.com/mannforcex-cell/ReportEagleWhahsap.git
+cd ReportEagleWhahsap
 
 # Run installer
-chmod +x install.sh
-./install.sh# ReportEagleWhahsap
+npm install
