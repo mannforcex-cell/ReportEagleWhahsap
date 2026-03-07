@@ -46,4 +46,6 @@ git clone https://github.com/mannforcex-cell/ReportEagleWhahsap.git
 cd ReportEagleWhahsap
 
 # Run installer
-npm install
+npm install or npm install chalk
+#start
+npm start
